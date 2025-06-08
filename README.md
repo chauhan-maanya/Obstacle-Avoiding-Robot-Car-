@@ -65,9 +65,9 @@ ________________________________________________________________________________
 ## 📸 Project Photos-
 ![car1](https://github.com/user-attachments/assets/741b441e-0efe-4200-88cd-8b67c50acf16)
 
-
+---
 ![car](https://github.com/user-attachments/assets/1e3f93be-5a47-4091-b0f2-b52aedc29eee)
-
+---
 
 ![car2](https://github.com/user-attachments/assets/60a0f807-2668-4730-ae2e-cde75f2552af)
 
@@ -86,5 +86,6 @@ Future Readiness for Coding and Expansion
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
 📍 Note
+
 This was a collaborative build. I worked on the physical setup, wiring, and planning logic. Now, I’m actively learning the coding part myself using online tutorials to fully understand and replicate it.
 
