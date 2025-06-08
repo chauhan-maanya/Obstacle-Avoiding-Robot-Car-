@@ -1,5 +1,6 @@
 # Obstacle-Avoiding-Robot-Car
-This project is an academic guided project where I contributed and learned the fundamentals of integrating hardware and software. The goal was to build a robot car that can detect and avoid obstacles autonomously using ultrasonic sensors and Arduino programming.
+An academic project focused on integrating hardware and software to create a self-navigating car. Built using Arduino UNO, this car detects obstacles with ultrasonic sensors and autonomously adjusts direction. The project helped deepen my understanding of embedded systems, logic building, and team-based hardware development.
+
 
 ## 📦 Components Used
 
@@ -13,11 +14,13 @@ This project is an academic guided project where I contributed and learned the f
 
 ---
 
-## 💻 How It Works
 
-- The ultrasonic sensor measures distance from nearby obstacles.
-- If an obstacle is detected within a certain range, the car stops and changes direction.
-- The Arduino UNO handles logic and sends movement commands to the motors via L298N.
+## 💡 How It Works
+
+- The **ultrasonic sensor** measures distance from nearby objects.  
+- If an obstacle is detected within a preset range, the car **pauses and reroutes**.  
+- The **Arduino UNO** executes the logic and controls the motors via the **L298N driver**.
+
 
 ---
 
@@ -66,28 +69,33 @@ ________________________________________________________________________________
 ![car1](https://github.com/user-attachments/assets/741b441e-0efe-4200-88cd-8b67c50acf16)
 
 ---
+
 ![car](https://github.com/user-attachments/assets/1e3f93be-5a47-4091-b0f2-b52aedc29eee)
 ---
+
 
 ![car2](https://github.com/user-attachments/assets/60a0f807-2668-4730-ae2e-cde75f2552af)
 
 ________________________________________________________________________________________________________________________________________________________________________________________________
 ✨ Skills Gained
-Hardware Assembly & Circuit Debugging
 
-Sensor Integration (Ultrasonic + Motors)
-
-Basic Arduino Workflow
-
-Team Coordination & Documentation
-
-Future Readiness for Coding and Expansion
+- **Hardware Assembly** & Circuit Debugging  
+- Sensor & Motor Integration  
+- Arduino-based Logical Planning  
+- Version Control & Documentation  
+- Communication and Teamwork  
+- Initiative to self-learn Arduino coding
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-### 🔧 Note
+## 🔧 Personal Contribution & Reflection
 
-This was a collaborative build. I contributed to the physical setup, wiring, and planning the overall logic of the car. While I was not responsible for writing the Arduino code during the initial build, I am already proficient in C++ and am now actively learning to apply it in embedded systems and Arduino development. This repository documents my journey of taking full technical ownership of the project, including understanding, modifying, and optimizing the original code.
+> **This was a collaborative build.** I contributed to the **physical setup, wiring**, and **design logic**. Although I wasn’t involved in the initial Arduino coding, I’m already proficient in **C++**, and have begun independently learning **Arduino programming and embedded logic**.  
+> This repository documents my progress as I take full technical ownership, preparing for deeper work in **robotics and embedded systems**.
+----
+## ✅ Why This Project Matters
+
+This project represents my **drive to go beyond classroom theory** — it taught me not only how hardware works but how to **translate logic into physical action**. I plan to evolve this project further with enhancements like Bluetooth control and obstacle memory using basic ML algorithms.
 
 
