@@ -85,7 +85,9 @@ Future Readiness for Coding and Expansion
 
 ___________________________________________________________________________________________________________________________________________________________________________________________________
 
-📍 Note
 
-This was a collaborative build. I worked on the physical setup, wiring, and planning logic. Now, I’m actively learning the coding part myself using online tutorials to fully understand and replicate it.
+### 🔧 Note
+
+This was a collaborative build. I contributed to the physical setup, wiring, and planning the overall logic of the car. While I was not responsible for writing the Arduino code during the initial build, I am already proficient in C++ and am now actively learning to apply it in embedded systems and Arduino development. This repository documents my journey of taking full technical ownership of the project, including understanding, modifying, and optimizing the original code.
+
 
